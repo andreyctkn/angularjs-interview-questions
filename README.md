@@ -9,12 +9,14 @@
 ## 2. Architecture ##
  - Differences between `Provider` vs `Factory` vs `Service`
  - How do you prefer to develop the data access layer which communicate with REST service
- - Which service do you use: `$http` or `$resourse` or `rest-angular`
+ - Which service do you use: `$http` or `$resourse` or `rest-angular`?
+ - How can you configure `$http` service?
  - What about `q` and promises in angularjs
  - Event model in angularjs
  - Do you use some sort of angular style guides
+ - What is dependency injection? Explain difference between inline and explicit annotation
 
-## 3. Directives##
+## 3. Directives ##
   - What is directive in angularjs?
   - List some built-in directives
   - Explain difference between 'compile' and 'link' callbacks in directive definition
